@@ -1,4 +1,4 @@
-![git](https://github.com/FedericoMaldonado/FedericoMaldonado/assets/159331190/78739bc5-c0a9-430a-89e5-1fd664ec30b9)## - 👋 Hi, I’m Federico Maldonado Front-End developer.
+## - 👋 Hi, I’m Federico Maldonado Front-End developer.
 
 ### - 🛠️ Skills:
 
